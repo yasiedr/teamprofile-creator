@@ -1,0 +1,22 @@
+{
+  "name": "teamprofileapp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/yasiedr/teamprofile-creator.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yasiedr/teamprofile-creator/issues"
+  },
+  "homepage": "https://github.com/yasiedr/teamprofile-creator#readme",
+  "dependencies": {
+    "inquirer": "^8.2.4"
+  }
+}
